@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on El Pudú: Life in a little Airstream</title>
+    <link>https://cicd.life/tags/</link>
+    <description>Recent content in Tags on El Pudú: Life in a little Airstream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 May 2018 20:18:31 -0600</lastBuildDate>
+    
+	<atom:link href="https://cicd.life/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arkansas River</title>
+      <link>https://cicd.life/tags/arkansas-river/</link>
+      <pubDate>Tue, 29 May 2018 20:18:31 -0600</pubDate>
+      
+      <guid>https://cicd.life/tags/arkansas-river/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafting</title>
+      <link>https://cicd.life/tags/rafting/</link>
+      <pubDate>Tue, 29 May 2018 20:18:31 -0600</pubDate>
+      
+      <guid>https://cicd.life/tags/rafting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>https://cicd.life/tags/spring/</link>
+      <pubDate>Tue, 29 May 2018 20:18:31 -0600</pubDate>
+      
+      <guid>https://cicd.life/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

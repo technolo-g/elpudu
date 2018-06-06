@@ -1,0 +1,5 @@
+baseURL: "https://cicd.life/"
+title: "El Pudú: Life in a little Airstream"
+theme: "material-kit-pro"
+languageCode: "en-us"
+MetaDataFormat: "yaml"
