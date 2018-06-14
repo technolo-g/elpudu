@@ -30,6 +30,7 @@ Departed: {{ .Date }}
 MaxTemp:
 MinTemp:
 WaterSource:
+Reservation: # Reserve America
 Ratings: #1-5
   Scenery: 
   Privacy:
