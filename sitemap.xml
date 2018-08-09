@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>https://www.elpudu.com/mattspic/lago-villarica-sunset/</loc>
+    <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.elpudu.com/tiffanyspic/chileknot/</loc>
     <lastmod>2018-02-04T00:00:00+00:00</lastmod>
   </url>
@@ -198,13 +203,13 @@
   </url>
   
   <url>
-    <loc>https://www.elpudu.com/tags/solar/</loc>
-    <lastmod>2018-08-06T00:00:00-06:00</lastmod>
+    <loc>https://www.elpudu.com/categories/solar/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.elpudu.com/categories/solar/</loc>
+    <loc>https://www.elpudu.com/tags/solar/</loc>
+    <lastmod>2018-08-06T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
