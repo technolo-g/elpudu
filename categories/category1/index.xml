@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category1 on El Pudu: Living and working from our Airstream</title>
+    <link>https://www.elpudu.com/categories/category1/</link>
+    <description>Recent content in Category1 on El Pudu: Living and working from our Airstream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; 2018&lt;br /&gt;by Matt &amp; Tiffany</copyright>
+    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.elpudu.com/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Matt</title>
+      <link>https://www.elpudu.com/post/aboutmatt/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/post/aboutmatt/</guid>
+      <description>You can optionally set an image in the front matter of a post using image = &amp;quot;...&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

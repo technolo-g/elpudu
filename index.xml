@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El Pudu: Living and working from our Airstream</title>
+    <link>https://www.elpudu.com/</link>
+    <description>Recent content on El Pudu: Living and working from our Airstream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; 2018&lt;br /&gt;by Matt &amp; Tiffany</copyright>
+    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.elpudu.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Matt</title>
+      <link>https://www.elpudu.com/post/aboutmatt/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/post/aboutmatt/</guid>
+      <description>Hi, I&amp;rsquo;m Matt!</description>
+    </item>
+    
+    <item>
+      <title>About Tiffany</title>
+      <link>https://www.elpudu.com/post/abouttiffany/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/post/abouttiffany/</guid>
+      <description>Hi, I&amp;rsquo;m Tiffany!</description>
+    </item>
+    
+    <item>
+      <title>A deer I encountered outside of Rocky Mountain National Park</title>
+      <link>https://www.elpudu.com/mattspic/estesparkdeer/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/mattspic/estesparkdeer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mt Shavano Blm</title>
+      <link>https://www.elpudu.com/campsite/mt-shavano-blm/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.elpudu.com/campsite/mt-shavano-blm/</guid>
+      <description>Mt. Shavano BLM Overview This was a very pretty BLM area outside of Salida. It&amp;rsquo;s super close to both Hecla and Stonebridge and only about 10-15 minutes to Walmart. This was our first boondocking adventure and so we wanted to be close to town as well as close to rafting.
+Good We stayed at the end of a cul-de-sac overlooking the mountains towards Gunnison. We had a ton of privacy and beautiful views and we were able to burn before Memorial Day Weekend; after which, there was a fire ban.</description>
+    </item>
+    
+    <item>
+      <title>Knot in Chile Anymore</title>
+      <link>https://www.elpudu.com/tiffanyspic/chileknot/</link>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/tiffanyspic/chileknot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>200W of Renogy Solar Power on Airstream Sport 16</title>
+      <link>https://www.elpudu.com/airstreamproject/solar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/airstreamproject/solar/</guid>
+      <description>This was a fun project in which I installed 2 Renogy 100W solar panels onto the roof of our 2018 Airstream Sport 16&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>Museo Pablo Fierro</title>
+      <link>https://www.elpudu.com/review/museopablofierro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/review/museopablofierro/</guid>
+      <description>The Museo Pablo Fierro in Puerto Varas was a very cool experience.</description>
+    </item>
+    
+  </channel>
+</rss>

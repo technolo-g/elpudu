@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Much Animation on El Pudu: Living and working from our Airstream</title>
+    <link>https://www.elpudu.com/tags/much-animation/</link>
+    <description>Recent content in Much Animation on El Pudu: Living and working from our Airstream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; 2018&lt;br /&gt;by Matt &amp; Tiffany</copyright>
+    
+	<atom:link href="https://www.elpudu.com/tags/much-animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video</title>
+      <link>https://www.elpudu.com/airstreamproject/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/airstreamproject/video/</guid>
+      <description>Videos can be provided via:
+video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot; video_webm = &amp;quot;/vid/vid_480x320.webm&amp;quot; video_ogv = &amp;quot;/vid/vid_480x320.ogv&amp;quot; video_3gp = &amp;quot;/vid/vid_352x288.3gp&amp;quot; video_fallback = &amp;quot;/img/car.jpg&amp;quot;  Each value is optional. If the fallback image is provided, it will be used as both the poster of the video and the fallback if the browser does not support HTML5 video.
+You can use the partial for a video via:
+.Scratch.Set &amp;quot;class&amp;quot; &amp;quot;some extra CSS classes on video tag&amp;quot; {{ partial &amp;quot;extra/video.</description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://www.elpudu.com/review/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/review/video/</guid>
+      <description>Videos can be provided via:
+video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot; video_webm = &amp;quot;/vid/vid_480x320.webm&amp;quot; video_ogv = &amp;quot;/vid/vid_480x320.ogv&amp;quot; video_3gp = &amp;quot;/vid/vid_352x288.3gp&amp;quot; video_fallback = &amp;quot;/img/car.jpg&amp;quot;  Each value is optional. If the fallback image is provided, it will be used as both the poster of the video and the fallback if the browser does not support HTML5 video.
+You can use the partial for a video via:
+.Scratch.Set &amp;quot;class&amp;quot; &amp;quot;some extra CSS classes on video tag&amp;quot; {{ partial &amp;quot;extra/video.</description>
+    </item>
+    
+  </channel>
+</rss>

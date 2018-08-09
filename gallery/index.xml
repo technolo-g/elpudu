@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on El Pudu: Living and working from our Airstream</title>
+    <link>https://www.elpudu.com/gallery/</link>
+    <description>Recent content in Galleries on El Pudu: Living and working from our Airstream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; 2018&lt;br /&gt;by Matt &amp; Tiffany</copyright>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.elpudu.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A deer I encountered outside of Rocky Mountain National Park</title>
+      <link>https://www.elpudu.com/gallery/estesparkdeer/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/gallery/estesparkdeer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://www.elpudu.com/gallery/anothercup/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/gallery/anothercup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://www.elpudu.com/gallery/anotherdrone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/gallery/anotherdrone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://www.elpudu.com/gallery/anotherfood/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/gallery/anotherfood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://www.elpudu.com/gallery/anotherjars/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/gallery/anotherjars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://www.elpudu.com/gallery/anotherphone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/gallery/anotherphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://www.elpudu.com/gallery/car/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/gallery/car/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on El Pudu: Living and working from our Airstream</title>
+    <link>https://www.elpudu.com/project/</link>
+    <description>Recent content in Projects on El Pudu: Living and working from our Airstream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; 2018 by Matt &amp; Tiffany</copyright>
+    
+	<atom:link href="https://www.elpudu.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video</title>
+      <link>https://www.elpudu.com/project/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/video/</guid>
+      <description>Videos can be provided via:
+video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot; video_webm = &amp;quot;/vid/vid_480x320.webm&amp;quot; video_ogv = &amp;quot;/vid/vid_480x320.ogv&amp;quot; video_3gp = &amp;quot;/vid/vid_352x288.3gp&amp;quot; video_fallback = &amp;quot;/img/car.jpg&amp;quot;  Each value is optional. If the fallback image is provided, it will be used as both the poster of the video and the fallback if the browser does not support HTML5 video.
+You can use the partial for a video via:
+.Scratch.Set &amp;quot;class&amp;quot; &amp;quot;some extra CSS classes on video tag&amp;quot; {{ partial &amp;quot;extra/video.</description>
+    </item>
+    
+    <item>
+      <title>Another Car</title>
+      <link>https://www.elpudu.com/project/anothercar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/anothercar/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Another Cup</title>
+      <link>https://www.elpudu.com/project/anothercup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/anothercup/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Car</title>
+      <link>https://www.elpudu.com/project/car/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/car/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Cup</title>
+      <link>https://www.elpudu.com/project/cup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/cup/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Drone</title>
+      <link>https://www.elpudu.com/project/anotherdrone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/anotherdrone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Drone</title>
+      <link>https://www.elpudu.com/project/drone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/drone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://www.elpudu.com/project/anotherfood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/anotherfood/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://www.elpudu.com/project/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/food/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Jars</title>
+      <link>https://www.elpudu.com/project/anotherjars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/anotherjars/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Jars</title>
+      <link>https://www.elpudu.com/project/jars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/jars/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://www.elpudu.com/project/anotherphone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/anotherphone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://www.elpudu.com/project/phone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elpudu.com/project/phone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>
