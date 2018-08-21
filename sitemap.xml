@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.elpudu.com/campsite/beartooth-pass-shoshone-nf/</loc>
+    <lastmod>2018-08-11T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.elpudu.com/post/aboutmatt/</loc>
     <lastmod>2018-08-08T00:00:00+00:00</lastmod>
   </url>
@@ -102,7 +107,7 @@
   
   <url>
     <loc>https://www.elpudu.com/categories/boondocking/</loc>
-    <lastmod>2018-08-06T00:00:00-06:00</lastmod>
+    <lastmod>2018-08-11T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -114,7 +119,7 @@
   
   <url>
     <loc>https://www.elpudu.com/campsite/</loc>
-    <lastmod>2018-08-06T00:00:00-06:00</lastmod>
+    <lastmod>2018-08-11T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -132,7 +137,25 @@
   
   <url>
     <loc>https://www.elpudu.com/</loc>
-    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-11T00:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elpudu.com/tags/epic-views/</loc>
+    <lastmod>2018-08-11T00:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elpudu.com/tags/happy-jack/</loc>
+    <lastmod>2018-08-06T00:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elpudu.com/tags/high-altitude/</loc>
+    <lastmod>2018-08-11T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -176,7 +199,7 @@
   
   <url>
     <loc>https://www.elpudu.com/categories/public-land/</loc>
-    <lastmod>2018-08-06T00:00:00-06:00</lastmod>
+    <lastmod>2018-08-11T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -203,13 +226,13 @@
   </url>
   
   <url>
-    <loc>https://www.elpudu.com/categories/solar/</loc>
+    <loc>https://www.elpudu.com/tags/solar/</loc>
+    <lastmod>2018-08-06T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.elpudu.com/tags/solar/</loc>
-    <lastmod>2018-08-06T00:00:00-06:00</lastmod>
+    <loc>https://www.elpudu.com/categories/solar/</loc>
     <priority>0</priority>
   </url>
   
@@ -221,7 +244,7 @@
   
   <url>
     <loc>https://www.elpudu.com/tags/summer/</loc>
-    <lastmod>2018-08-06T00:00:00-06:00</lastmod>
+    <lastmod>2018-08-11T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -243,8 +266,20 @@
   </url>
   
   <url>
+    <loc>https://www.elpudu.com/tags/veedauwoo/</loc>
+    <lastmod>2018-08-06T00:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.elpudu.com/tags/water/</loc>
     <lastmod>2018-06-05T00:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elpudu.com/tags/wheeling/</loc>
+    <lastmod>2018-08-11T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
